@@ -1,9 +1,11 @@
 # <component> <path relative to $HOME>   (a path may be a file or a whole directory)
 # Components are defined in install.sh; `settings` is handled separately (settings/*.patch.json).
+# `palette` also merges settings/ryogami.patch.json (fixed theme policy) and runs `ryoku-shell theme valorant`.
 border  .config/hypr/user.lua
 lock    .local/share/qylock/themes/valorant
 lock    .config/qylock/theme
 fonts   .local/share/fonts/valorant
+palette .local/share/ryoku/themes/valorant
 term    .config/kitty/user.conf
 term    .config/fish/user.fish
 term    .config/fastfetch

@@ -1,6 +1,7 @@
 {
   "fontFamily": "Barlow",
   "fontScale": 1.15,
+  "formatLocale": "es_ES",
   "theme": {
     "attributes": {
       "sizing": {

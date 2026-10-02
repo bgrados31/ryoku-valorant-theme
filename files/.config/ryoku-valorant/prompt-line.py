@@ -50,5 +50,5 @@ def pgrad(text):
     return "".join(ch if ch == " " else esc(mix(i / n)) + ch for i, ch in enumerate(text)) + RESET
 
 
-sep = f" {esc((61, 214, 198))}◆{RESET} "
+sep = f" {esc((255, 70, 85))}◆{RESET} "
 print(sep.join(pgrad(t) for t in segs), end="")

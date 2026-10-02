@@ -1,0 +1,13 @@
+{
+  "clockDesign": "column",
+  "clockAccent": "brand",
+  "clockBg": "none",
+  "clockColor": "#ece8e1",
+  "clockColor2": "",
+  "clockGradient": false,
+  "clock24h": true,
+  "clockSeconds": false,
+  "dateShow": true,
+  "dateDesign": "inline",
+  "widgetFont": "Bebas Neue"
+}

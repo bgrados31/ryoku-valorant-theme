@@ -6,10 +6,14 @@
       "gapsOut": 10,
       "borderSize": 2,
       "animatedBorder": true,
+      "borderAngleSpeed": 6,
       "borderFollowsPalette": false,
       "activeBorder": "#ff4655",
-      "inactiveBorder": "#1f2a36",
-      "glowColor": "#3dd6c6"
+      "inactiveBorder": "#2a2c2e",
+      "glowColor": "#ff4655"
+    },
+    "cursor": {
+      "theme": "Bibata-Modern-Classic"
     }
   }
 }
