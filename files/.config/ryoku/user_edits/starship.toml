@@ -1,0 +1,23 @@
+add_newline = false
+format = """
+[╭─](fg:#768079) ${custom.gradient}$cmd_duration
+[│](fg:#768079)
+[╰─](fg:#768079) $character"""
+
+[cmd_duration]
+min_time = 500
+style = "fg:#768079"
+format = "[  \U000f051a $duration]($style)"
+
+[character]
+success_symbol = "[◆](bold fg:#FF4655)"
+error_symbol = "[◆](bold fg:#768079)"
+
+[custom.gradient]
+command = "python3 ~/.config/ryoku-valorant/prompt-line.py"
+when = true
+unsafe_no_escape = true
+format = "$output"
+
+[package]
+disabled = true

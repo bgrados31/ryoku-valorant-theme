@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=valorant
+Description=Agent - Valorant style
+Author=ryoku-valorant-setup
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+QtVersion=6

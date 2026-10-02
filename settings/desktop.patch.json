@@ -1,0 +1,15 @@
+{
+  "desktop": {
+    "appearance": {
+      "rounding": 0,
+      "gapsIn": 5,
+      "gapsOut": 10,
+      "borderSize": 2,
+      "animatedBorder": true,
+      "borderFollowsPalette": false,
+      "activeBorder": "#ff4655",
+      "inactiveBorder": "#1f2a36",
+      "glowColor": "#3dd6c6"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "fontFamily": "Barlow",
+  "fontScale": 1.15,
+  "theme": {
+    "attributes": {
+      "sizing": {
+        "border_width": 2,
+        "radius_widget": 2,
+        "radius_window": 0
+      }
+    }
+  },
+  "wallpaper": {
+    "video_enabled": true,
+    "video_engine": "ryogami"
+  }
+}

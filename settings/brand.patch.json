@@ -1,0 +1,11 @@
+{
+  "markImage": "@HOME@/Pictures/Wallpapers/valorant-mark.png",
+  "markText": "V",
+  "markTint": false,
+  "reloadCover": {
+    "enabled": true,
+    "kind": "image",
+    "name": "valorant-reload-cover.png",
+    "path": "@HOME@/Pictures/Wallpapers/valorant-reload-cover.png"
+  }
+}

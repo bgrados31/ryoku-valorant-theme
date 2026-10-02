@@ -1,0 +1,18 @@
+# <component> <path relative to $HOME>   (a path may be a file or a whole directory)
+# Components are defined in install.sh; `settings` is handled separately (settings/*.patch.json).
+border  .config/hypr/user.lua
+lock    .local/share/qylock/themes/valorant
+lock    .config/qylock/theme
+fonts   .local/share/fonts/valorant
+term    .config/kitty/user.conf
+term    .config/fish/user.fish
+term    .config/fastfetch
+term    .config/ryoku-valorant
+term    .config/ryoku/user_edits/starship.toml
+wall    Pictures/Wallpapers/valorant-mark.png
+wall    Pictures/Wallpapers/valorant-reload-cover.png
+wall    Pictures/Wallpapers/valorant-omen.png
+wall    Pictures/Wallpapers/valorant-agentes.png
+wall    Pictures/Wallpapers/valorant-ojo.png
+wall    Pictures/Wallpapers/valorant-terminal-subtle.png
+wall    videowalls/valorant-agentes.mp4
